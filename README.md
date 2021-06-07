@@ -1,16 +1,24 @@
-### Hi there 👋
+# xirxo
+Hello and welcome to my GitHub profile!
 
-<!--
-**xirxo/xirxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+* 👋 My name is [@xirxo](https://github.com/xirxo 'xirxo').
+* 🌏 I'm from the Earth.
+* 📚 I'm studying basic computer science at my current school.
+* 🔢 I'm a 14 years old student.
+* 💻 I know JavaScript, HTML, CSS, Python, C, SQL and Bash
+* 🏫 I'm currently learning Rust and C++.
 
-Here are some ideas to get you started:
+# My GitHub Statistics
+![xirxo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xirxo&show_icons=true&theme=onedark&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Most Used Language
+![xirxo's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xirxo&theme=onedark&langs_count=10&layout=compact)
+
+# Favourite Projects
+![xirxo](https://github-readme-stats.vercel.app/api/pin/?username=xirxo&repo=xirxo&theme=onedark&show_owner=true)
+![kibina](https://github-readme-stats.vercel.app/api/pin/?username=xirxo&repo=kibina&theme=onedark&show_owner=true)
+![BubbleSort](https://github-readme-stats.vercel.app/api/pin/?username=xirxo&repo=BubbleSort&theme=onedark&show_owner=true)
+
+# Contact Me
+* ✉️ My [email](mailto:xirxo.official@hotmail.com 'Email - xirxo')
