@@ -2,14 +2,14 @@
 Hello and welcome to my GitHub profile!
 
 # Discord server
-You can join my Discord server [here](https://discord.gg/ptbAHhDFYQ 'Xirxo Hangout')
+You can join my Discord server [here](https://discord.gg/ptbAHhDFYQ 'Xirxo Hangout').
 
 # About Me
 * 👋 My name is [@xirxo](https://github.com/xirxo 'xirxo').
 * 🌏 I'm from the Earth.
 * 📚 I'm studying basic computer science at my current school.
 * 🔢 I'm a 14 years old student.
-* 💻 I know JavaScript, HTML, CSS, Python, C, SQL and Bash
+* 💻 I know JavaScript, HTML, CSS, Python, C, SQL and Bash.
 * 🏫 I'm currently learning Rust and C++.
 
 # My GitHub Statistics
@@ -24,4 +24,4 @@ You can join my Discord server [here](https://discord.gg/ptbAHhDFYQ 'Xirxo Hango
 ![BubbleSort](https://github-readme-stats.vercel.app/api/pin/?username=xirxo&repo=BubbleSort&theme=onedark&show_owner=true)
 
 # Contact Me
-* ✉️ My [email](mailto:xirxo.official@hotmail.com 'Email - xirxo')
+* ✉️ My [email](mailto:xirxo.official@hotmail.com 'Email - xirxo').
