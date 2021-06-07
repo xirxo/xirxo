@@ -20,7 +20,7 @@ You can join my Discord server [here](https://discord.gg/ptbAHhDFYQ 'Xirxo Hango
 
 # Favourite Projects
 ![xirxo](https://github-readme-stats.vercel.app/api/pin/?username=xirxo&repo=xirxo&theme=onedark&show_owner=true)
-![kibina](https://github-readme-stats.vercel.app/api/pin/?username=xirxo&repo=kibina&theme=onedark&show_owner=true)
+![Kibina](https://github-readme-stats.vercel.app/api/pin/?username=xirxo&repo=Kibina&theme=onedark&show_owner=true)
 ![AlgoJS](https://github-readme-stats.vercel.app/api/pin/?username=xirxo&repo=AlgoJS&theme=onedark&show_owner=true)
 
 # Contact Me
