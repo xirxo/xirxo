@@ -22,6 +22,7 @@ You can join my Discord server [here](https://discord.gg/ptbAHhDFYQ 'Xirxo Hango
 ![xirxo](https://github-readme-stats.vercel.app/api/pin/?username=xirxo&repo=xirxo&theme=onedark&show_owner=true)
 ![Kibina](https://github-readme-stats.vercel.app/api/pin/?username=xirxo&repo=Kibina&theme=onedark&show_owner=true)
 ![AlgoJS](https://github-readme-stats.vercel.app/api/pin/?username=xirxo&repo=AlgoJS&theme=onedark&show_owner=true)
+![x16_x](https://github-readme-stats.vercel.app/api/pin/?username=xirxo&repo=x16_x&theme=onedark&show_owner=true)
 
 # Contact Me
 * ✉️ My [email](mailto:xirxo.official@hotmail.com 'Email - xirxo').
