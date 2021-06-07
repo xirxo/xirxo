@@ -1,6 +1,9 @@
 # xirxo
 Hello and welcome to my GitHub profile!
 
+# Discord server
+You can join my Discord server [here](https://discord.gg/ptbAHhDFYQ 'Xirxo Hangout')
+
 # About Me
 * 👋 My name is [@xirxo](https://github.com/xirxo 'xirxo').
 * 🌏 I'm from the Earth.
